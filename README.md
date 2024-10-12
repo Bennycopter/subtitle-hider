@@ -6,7 +6,7 @@ This program adds a box to your screen that can be used to hide/blur unwanted ha
 
 ## Example of Subtitle Blurring
 
-![image](https://github.com/user-attachments/assets/d7e7d7f5-5912-47e5-8f07-059c0a2ebb4d)
+[![image](https://github.com/user-attachments/assets/d7e7d7f5-5912-47e5-8f07-059c0a2ebb4d)](https://cijapanese.com/video/1/Snowman)
 
 ## Features
 

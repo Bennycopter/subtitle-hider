@@ -12,8 +12,9 @@ This program adds a box to your screen that can be used to hide/blur unwanted ha
 
 - Draggable
 - Resizable
-- Always on top of other windows
 - Three background options: Blur (default), Black, and White
+- Always on top of other windows
+- Click on the box to show what's underneath it
 
 ## Windows Instructions
 

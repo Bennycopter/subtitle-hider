@@ -17,12 +17,10 @@ class DraggableBlurWindow(QWidget):
         # Default background color
         self.bg_color = self.settings.value("background-color", QColor(0, 0, 0, 0))
         self.text_color = self.settings.value("text-color", "black")
-        self.always_hide_instructions = self.settings.value("always-hide-instructions", False)
-        self.always_hide_grips = self.settings.value("always-hide-grips", False)
+        self.always_hide_instructions = self.settings.value("always-hide-instructions", "false")
+        self.always_hide_grips = self.settings.value("always-hide-grips", "false")
         self.always_hide_instructions = string_to_bool(self.always_hide_instructions)
         self.always_hide_grips = string_to_bool(self.always_hide_grips)
-        print (self.always_hide_instructions)
-        print (self.always_hide_grips)
 
         # Set window attributes
         self.setWindowFlags(Qt.WindowStaysOnTopHint | Qt.FramelessWindowHint)

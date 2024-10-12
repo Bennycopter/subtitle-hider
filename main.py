@@ -42,6 +42,7 @@ class DraggableBlurWindow(QWidget):
             Right-click to <strong>change color</strong> or <strong>close</strong>
         """, self)
         self.text_label.setAlignment(Qt.AlignCenter)  # Center the text inside the label
+        self.text_label.setAttribute(Qt.WA_TransparentForMouseEvents)
         layout.addWidget(self.text_label, alignment=Qt.AlignCenter)  # Center the label in the layout
         self.setLayout(layout)
 

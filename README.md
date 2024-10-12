@@ -8,6 +8,8 @@ This program adds a box to your screen that can be used to hide/blur unwanted ha
 
 [![image](https://github.com/user-attachments/assets/d7e7d7f5-5912-47e5-8f07-059c0a2ebb4d)](https://cijapanese.com/video/1/Snowman)
 
+Image source: [雪だるま Snowman - Comprehensible Japanese](https://cijapanese.com/video/1/Snowman)
+
 ## Features
 
 - Draggable

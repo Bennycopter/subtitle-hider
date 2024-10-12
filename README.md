@@ -10,9 +10,6 @@ This program adds a blurrable box on your screen that can be used to hide subtit
 - Extract the files
 - Double-click the .exe
 - (Optional) replace the icon.ico file with your own icon
-- Drag the middle of the window to position it.
-- Drag the corners of the window to resize it.
-- Right-click the window and select "close" to close it.
 
 ## Running from source
 
@@ -28,3 +25,7 @@ python main
 ```python
 pyinstaller --onefile --icon=icon.ico --windowed main.py
 ```
+
+## Copyright Notice
+
+The icon file `icon.ico` is copyright Comprehensible Japanese (https://cijapanese.com).

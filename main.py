@@ -9,7 +9,7 @@ class DraggableBlurWindow(QWidget):
         super(DraggableBlurWindow, self).__init__()
 
         # Load settings
-        self.settings = QSettings("MyApp", "DraggableBlurWindow")
+        self.settings = QSettings("SubtitleHider", "DraggableBlurWindow")
         self.resize(self.settings.value("size", QSize(800, 400)))
         previous_position = self.settings.value("pos", False)
         if previous_position:

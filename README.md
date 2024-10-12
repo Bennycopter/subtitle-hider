@@ -1,8 +1,15 @@
 # Subtitle Hider
 
-This program adds a blurrable box on your screen that can be used to hide subtitles on videos.
+This program adds a box to your screen that can be used to hide/blur unwanted hard-coded subtitles on videos.
 
 ***If you wish to support me and my work, you can purchase a subscription to our website, [Comprehensible Japanese](https://cijapanese.com), and get access to nearly 1000 Japanese learning videos based on comprehensible input.***
+
+## Features
+
+- Draggable
+- Resizable
+- Always on top of other windows
+- Three background options: Blur (default), Black, and White
 
 ## Windows Instructions
 

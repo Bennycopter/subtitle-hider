@@ -4,6 +4,10 @@ This program adds a box to your screen that can be used to hide/blur unwanted ha
 
 ***If you wish to support me and my work, you can purchase a subscription to our website, [Comprehensible Japanese](https://cijapanese.com), and get access to nearly 1000 Japanese learning videos based on comprehensible input.***
 
+## Example of Subtitle Blurring
+
+![image](https://github.com/user-attachments/assets/d7e7d7f5-5912-47e5-8f07-059c0a2ebb4d)
+
 ## Features
 
 - Draggable
